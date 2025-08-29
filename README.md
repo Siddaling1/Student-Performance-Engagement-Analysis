@@ -4,6 +4,11 @@ To analyze student performance, attendance, and engagement in extracurricular ac
 # Code
 <a href="https://github.com/Siddaling1/Student-Performance-Engagement-Analysis/blob/main/Student_Performance_%26_Engagement_Analysis_.ipynb"> Code </a>
 
+
+# Dashboard
+<a href="https://github.com/Siddaling1/Student-Performance-Engagement-Analysis/blob/main/Student.pbix">Dashboard/Report</a>
+                                                                                                                                                     
+
 # Screenshot
 ![Report Screenshot](https://raw.githubusercontent.com/Siddaling1/Student-Performance-Engagement-Analysis/main/Report%201.png)
 
