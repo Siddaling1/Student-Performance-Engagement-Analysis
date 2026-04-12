@@ -129,17 +129,4 @@ Such datasets are commonly used to identify key drivers of academic success like
 * Deploy using Streamlit / Web App
 * Add interactive dashboards (Power BI/Tableau)
 
----
 
-## 📬 Contact
-
-* LinkedIn: [www.linkedin.com/in/solla-siddaling](http://www.linkedin.com/in/solla-siddaling)
-* GitHub: https://github.com/Siddaling1
-
----
-
-## ⭐ Support
-
-If you found this project useful, give it a ⭐ on GitHub!
-
-[1]: https://github.com/ihuzaifashoukat/student-performance-analysis?utm_source=chatgpt.com "ihuzaifashoukat/student-performance-analysis"
